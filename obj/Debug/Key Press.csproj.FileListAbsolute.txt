@@ -1,0 +1,13 @@
+c:\users\michael\documents\visual studio 2013\Projects\Key Press\Key Press\bin\Debug\Key Press.exe.config
+c:\users\michael\documents\visual studio 2013\Projects\Key Press\Key Press\obj\Debug\Key Press.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2013\Projects\Key Press\Key Press\obj\Debug\MainWindow.baml
+c:\users\michael\documents\visual studio 2013\Projects\Key Press\Key Press\obj\Debug\MainWindow.g.cs
+c:\users\michael\documents\visual studio 2013\Projects\Key Press\Key Press\obj\Debug\App.g.cs
+c:\users\michael\documents\visual studio 2013\Projects\Key Press\Key Press\obj\Debug\Key Press_MarkupCompile.cache
+c:\users\michael\documents\visual studio 2013\Projects\Key Press\Key Press\obj\Debug\Key Press.g.resources
+c:\users\michael\documents\visual studio 2013\Projects\Key Press\Key Press\obj\Debug\Key_Press.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2013\Projects\Key Press\Key Press\obj\Debug\Key Press.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2013\Projects\Key Press\Key Press\bin\Debug\Key Press.exe
+c:\users\michael\documents\visual studio 2013\Projects\Key Press\Key Press\bin\Debug\Key Press.pdb
+c:\users\michael\documents\visual studio 2013\Projects\Key Press\Key Press\obj\Debug\Key Press.exe
+c:\users\michael\documents\visual studio 2013\Projects\Key Press\Key Press\obj\Debug\Key Press.pdb
